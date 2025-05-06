@@ -1,5 +1,3 @@
-# SoundnessCode-Bamse
-
 # **soundness codes**
 
 **submit your email**
@@ -16,11 +14,9 @@ Go to #Testnet-access > Submit your Pub-Ke
 ```
 sudo apt update && sudo apt upgrade -y
 ```
+Right "1" and Enter
 ```
 curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash
-```
-```
-Right "1" and Enter
 ```
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs/ | sh
