@@ -8,7 +8,7 @@ https://soundness.xyz/
 
 **discord**
 
-https://discord.gg/NbStGdsh
+https://discord.gg/soundnesslabs
 
 Go to #Testnet-access > Submit your Pub-Ke
 
@@ -18,6 +18,9 @@ sudo apt update && sudo apt upgrade -y
 ```
 ```
 curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash
+```
+```
+Right "1" and Enter
 ```
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs/ | sh
@@ -39,4 +42,4 @@ soundness-cli export-key --name my-key
 ```
 our telegram channel & toutube
 
-https://linktr.ee/airdropparvaz
+https://t.me/BamseDrop
