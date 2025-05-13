@@ -40,7 +40,6 @@ soundness-cli export-key --name my-key
 
 4- به دیسکورد برو پابلیک کی با دستور /access تو چنل #Soundness-Cockpit ارسال کن
 ```
-**Join discord and share public key**
 https://discord.gg/soundnesslabs
 ```
 
