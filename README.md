@@ -46,6 +46,7 @@ https://discord.gg/soundnesslabs
 5- تو همون چنل, تلگرام و تویتر متصل کن:
 ```
 x-ligin @username
+```
 /link_telegram username:
 ```
 
