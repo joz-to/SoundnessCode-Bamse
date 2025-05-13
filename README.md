@@ -1,7 +1,7 @@
 # **soundness codes**
 
 
-1- از پروفایل گینهاب یک repository بساز, اسم بزار براش و تیک Add a README file بزن
+1- از پروفایل گینهاب یک repository بساز, اسم بزار و تیک Add a README file بزن
 ```
 Go to Codespaces
 https://github.com/codespaces
