@@ -47,6 +47,7 @@ https://discord.gg/soundnesslabs
 ```
 x-ligin @username
 ```
+```
 /link_telegram username:
 ```
 
