@@ -35,8 +35,9 @@ soundnessup update
 ```
 soundness-cli generate-key --name my-key
 ```
-```
+
 اینجا دوباره رمز بزنید پرایوت کی نمایش داده میشه, یاداشت کنید
+```
 soundness-cli export-key --name my-key
 ```
 ```
@@ -49,11 +50,11 @@ https://discord.gg/soundnesslabs
 5- تو همون چنل تلگرامت متصل کن:
 x-ligin @username
 /link_telegram username:
-```
-```
+
+
 6. اینجا ایمیل واردکن
 https://soundness.xyz/
-```
-```
+
+
 our telegram channe
 https://t.me/BamseDrop
