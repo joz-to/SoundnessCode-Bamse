@@ -54,7 +54,5 @@ x-ligin @username
 https://soundness.xyz/
 ```
 
-our telegram channe
-```
 https://t.me/BamseDrop
-```
+
