@@ -40,21 +40,25 @@ soundness-cli generate-key --name my-key
 ```
 soundness-cli export-key --name my-key
 ```
-```
-4- به دیسکورد برو پابلیک کی با دستور /access تو چنل #Soundness-Cockpit ارسال کن
 
+4- به دیسکورد برو پابلیک کی با دستور /access تو چنل #Soundness-Cockpit ارسال کن
+```
 **Join discord and share public key**
 https://discord.gg/soundnesslabs
 ```
-```
+
 5- تو همون چنل تلگرامت متصل کن:
+```
 x-ligin @username
 /link_telegram username:
-
+```
 
 6. اینجا ایمیل واردکن
+```
 https://soundness.xyz/
-
+```
 
 our telegram channe
+```
 https://t.me/BamseDrop
+```
