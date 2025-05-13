@@ -1,7 +1,7 @@
 # **soundness codes**
 
 
-1- از داشبورد گیتهاب یک repository بساز, اسم بزار و تیک Add a README file بزن
+1- از داشبورد گیتهاب new بزن و یک repository بساز, اسم بزار و تیک Add a README file بزن
 ```
 Go to Codespaces
 https://github.com/codespaces
