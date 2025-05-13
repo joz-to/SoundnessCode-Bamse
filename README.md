@@ -3,10 +3,12 @@
 
 1- از داشبورد گیتهاب new بزن و یک repository بساز, اسم بزار و تیک Add a README file بزن
 ```
+2- به سایت زیر برو (codespaces) روی New codespaces بزن repository انتخاب کن و Region بزار رو US 
+```
 Go to Codespaces
 https://github.com/codespaces
 ```
-2- به سایت بالا برو (codespaces) روی New codespaces بزن repository انتخاب کن و Region بزار رو US 
+
 **generate your key**
 ```
 3- کد های زیر به ترتیب جاگزاری کن تا پابلیک کی و پرایوت کی بدست بیاری
