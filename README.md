@@ -7,9 +7,6 @@
 ```
 https://github.com/codespaces
 ```
-
-```
-```
 3- کد های زیر به ترتیب جاگزاری کن تا پابلیک کی و پرایوت کی بدست بیاری
 ```
 sudo apt update && sudo apt upgrade -y
