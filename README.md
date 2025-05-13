@@ -1,6 +1,6 @@
 # **soundness codes**
 
-Go to Gitgub profile and "Create a new repository"
+
 1- از پروفایل گینهاب یک رپستوری بساز, اسم بزار براش و تیک Add a README file بزن
 ```
 Go to Codespaces
